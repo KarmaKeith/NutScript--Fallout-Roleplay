@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"Fallout Roleplay"
+	"author"	"Chessnut & kf"
+	"menusystem"	"1"
+}
